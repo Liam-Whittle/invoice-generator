@@ -1,0 +1,8 @@
+{
+  "name": "Invoice Generator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "467f7e75"
+}
