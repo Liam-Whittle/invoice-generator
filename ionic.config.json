@@ -1,7 +1,8 @@
 {
   "name": "Invoice Generator",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular",
   "id": "467f7e75"
